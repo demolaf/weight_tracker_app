@@ -1,6 +1,6 @@
 # weight_tracker_app
 
-## Built with using:
+## Built with Flutter using:
 
 ### State management technqiue 
 Riverpod
